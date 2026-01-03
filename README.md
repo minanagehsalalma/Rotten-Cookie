@@ -16,7 +16,7 @@ Quality-of-life additions:
 Other changes:
 - Adds permissions needed for automation (`activeTab`, `scripting`) and host permissions for Discord webhooks.
 - Removes `_metadata/verified_contents.json` (Chrome Web Store verification file).
-- Adds `AGENTS.md` (developer notes; no runtime impact).
+- Adds `AGENTS.md` (developer notes; no runtime impact. Makes it easier if you want to mod another feature to the extention urself).
 
 ## Requirements
 
