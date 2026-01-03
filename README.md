@@ -1,4 +1,4 @@
-<img width="200" height="200" alt="Logo" src="https://github.com/user-attachments/assets/032b1711-1a2a-4c60-b852-bdb0461767ba" />
+<img width="200" height="200" alt="Logo" src="https://github.com/user-attachments/assets/032b1711-1a2a-4c60-b852-bdb0461767ba" align="center" />
 
 # Cookie-Editor Auto-Export Patch 
 
@@ -69,13 +69,13 @@ extpatcher apply --patch ./cookie-editor.patch.zip --in ./Cookie-Editor-Original
 </table>
 
 ## To use on android 
-1 ) download kiwibrowser the github release https://github.com/kiwibrowser/src.next/releases/tag/14310011181
+1. download kiwibrowser the github release https://github.com/kiwibrowser/src.next/releases/tag/14310011181
 
-2 ) open the extensions menu , load the zip file (you need to this the unpacked patched extension folder after patching)
+2. open the extensions menu , load the zip file (you need to this the unpacked patched extension folder after patching)
 
-3 ) The rest of the steps are the same as using it on Desktop
+3. The rest of the steps are the same as using it on Desktop
 
-4 ) for more advanced use cases you can use the extension with an android macro that opens a target website on a specified time each day. for that to work smoothly you need to disable battery optimization for kiwi browser. and you can trigger/control the target domain remotely if you use something like macrodroid webhooks.
+4. for more advanced use cases you can use the extension with an android macro that opens a target website on a specified time each day. for that to work smoothly you need to disable battery optimization for kiwi browser. and you can trigger/control the target domain remotely if you use something like macrodroid webhooks.
 
 ## Important notes
 
