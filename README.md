@@ -1,4 +1,6 @@
-# Cookie-Editor Auto-Export Patch
+<img width="200" height="200" alt="Logo" src="https://github.com/user-attachments/assets/032b1711-1a2a-4c60-b852-bdb0461767ba" />
+
+# Cookie-Editor Auto-Export Patch 
 
 This repo contains a patch bundle for Cookie-Editor (v1.13.0, MV3). It is not the extension itself. You apply the patch to an original, unmodified Cookie-Editor folder using the [extpatcher](https://github.com/minanagehsalalma/RevancedForChromeExtensions) CLI. Work on Both Desktop and mobile browsers
 <img width="1080" height="346" alt="image" src="https://github.com/user-attachments/assets/b5950f36-3068-4b15-accc-13621a579da1" />
