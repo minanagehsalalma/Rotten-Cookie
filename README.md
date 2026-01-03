@@ -42,7 +42,7 @@ extpatcher apply --patch ./cookie-editor.patch.zip --in ./Cookie-Editor-Original
    - Enable Developer Mode
    - Click “Load unpacked” and select `Cookie-Editor-Patched`
      
-5) Add via the extension icon click see all option and from there scroll to Automation Settings and input ur target domain and ur own Discord webhook and click save settings that's it
+5) On the extension icon click see all option and from there scroll to Automation Settings and input ur target domain and ur own Discord webhook and click save settings that's it
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
